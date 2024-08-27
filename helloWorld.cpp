@@ -2,7 +2,8 @@
 using namespace std;
 
 int main(){
-
+	
+	cout << "Hello Git" << endl;
 	cout << "Hello World!" << endl;
 	return 0;
 }
