@@ -13,3 +13,6 @@ Thumbs.db
 
 # Ignore build
 build/
+
+# Custom files to ignore
+rough.cpp
