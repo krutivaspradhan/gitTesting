@@ -1,0 +1,14 @@
+# Ignore all .o files
+*.o
+
+# Ignore temprorary files
+*.tmp
+*.swp
+
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build
+build/
