@@ -7,7 +7,7 @@ int main(){
 	
 	for ( int i = 0; i < 20; i++)
 	{
-		cout << "*" 
+		cout << "*"; 
 	} 
 	cout << endl;
 	cout << "Hello Git" << endl;
@@ -16,7 +16,7 @@ int main(){
 	cout << endl;
 	for ( int i = 0; i < 20; i++)
 	{
-		cout << "*" 
+		cout << "*"; 
 	}	
 	return 0;
 }
