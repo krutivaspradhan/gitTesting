@@ -1,5 +1,6 @@
 # Ignore all .o files
 *.o
+*.out
 
 # Ignore temprorary files
 *.tmp
